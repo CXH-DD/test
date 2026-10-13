@@ -1,0 +1,11 @@
+{
+  "name": "rectangular-layout-solver",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Axis-aligned rectangular object placement solver",
+  "main": "src/solver.js",
+  "scripts": {
+    "solve": "node src/solver.js"
+  },
+  "engines": { "node": ">=16" }
+}
